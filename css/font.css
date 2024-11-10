@@ -1,0 +1,16 @@
+@font-face {
+    font-family: '幼圆';
+    src: url('fonts/幼圆.TTF') format('truetype');
+}
+@font-face {
+    font-family: '微软简中圆';
+    src: url('fonts/微软简中圆.TTF') format('truetype');
+}
+@font-face {
+    font-family: '方正中倩简体';
+    src: url('fonts/方正中倩简体.ttf') format('truetype');
+}
+@font-face {
+    font-family: '方正粗倩简体';
+    src: url('fonts/方正粗倩简体.TTF') format('truetype');
+}
