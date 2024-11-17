@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://umi1201.github.io/Umi-Software-Center">
+    <url>
+        <loc>http://umi1201.github.io/Umi-Software-Center/index.html</loc> 
+        <lastmod>2024-11-17</lastmod> 
+        <changefreq>daily</changefreq> 
+        <priority>1.0</priority> 
+    </url>
+    <url>
+        <loc>http://umi1201.github.io/Umi-Software-Center/更新公告.html</loc>
+        <lastmod>2024-11-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
